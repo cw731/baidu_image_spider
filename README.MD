@@ -4,7 +4,7 @@
 
 - 只支持chrome (谷歌浏览器)
 
-![效果展示](output.gif)
+![效果展示](https://github.com/cw731/baidu_image_spider/output.gif)
 
 ## 浏览器不能自动打开
 - 查看谷歌浏览器版本
